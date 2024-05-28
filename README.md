@@ -1,1 +1,1 @@
-# basics_java
+# basics_javascript
